@@ -1,0 +1,18 @@
+{
+  "name": "XWebpack",
+  "version": "1.0.0",
+  "private": true,
+  "bin": {
+    "xwebpack": "./index.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@babel/core": "7.12.17",
+    "@babel/parser": "7.12.17",
+    "@babel/plugin-proposal-class-properties": "7.12.13",
+    "@babel/plugin-transform-react-jsx": "7.12.17",
+    "@babel/preset-env": "7.12.17",
+    "@babel/traverse": "7.12.17"
+  },
+  "scripts": {}
+}
